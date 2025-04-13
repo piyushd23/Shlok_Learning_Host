@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+whisper
+SpeechRecognition
+sounddevice
+soundfile
+numpy
+gtts
+playsound==1.2.2
+python-multipart

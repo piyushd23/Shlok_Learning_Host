@@ -1,0 +1,24 @@
+# FastAPI backend
+fastapi
+uvicorn
+whisper
+SpeechRecognition
+numpy
+sounddevice
+soundfile
+gtts
+playsound
+torch  # Required for whisper
+pydub  # Optional, but useful for audio handling
+scipy
+
+# Streamlit frontend
+streamlit
+requests
+
+# CORS Middleware
+python-multipart
+aiofiles
+jinja2
+httpx
+starlette
